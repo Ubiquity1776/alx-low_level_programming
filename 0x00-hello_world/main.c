@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+	B
     return (0);
 }
